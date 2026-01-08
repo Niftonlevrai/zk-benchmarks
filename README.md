@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # ZK-Bench
 
 zk benchmarks for popular zk frameworks
